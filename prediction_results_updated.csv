@@ -1,0 +1,33 @@
+sample_no,headline,true_label,predicted_label,correct,confidence,prob_Emergency,prob_False,prob_Out_of_scope,prob_Repeated,prob_True,prob_Unclear
+1,[Follow-up] Power Outage,Repeated,Repeated,True,0.989,0.0025,0.0014,0.0008,0.989,0.0041,0.0022
+2,Road Collapse,TRUE,True,True,0.9269,0.0365,0.012,0.0029,0.0127,0.9269,0.0091
+3,Contaminated Water,TRUE,True,True,0.7535,0.1735,0.0265,0.0067,0.0133,0.7535,0.0266
+4,Cable Cut,TRUE,True,True,0.8638,0.0748,0.0204,0.0079,0.0185,0.8638,0.0145
+5,Gas Smell,TRUE,True,True,0.8481,0.1022,0.0151,0.0045,0.0137,0.8481,0.0164
+6,Valve Damage,TRUE,True,True,0.8596,0.0885,0.0151,0.0051,0.0116,0.8596,0.0201
+7,Sewage Overflow,TRUE,True,True,0.8541,0.0888,0.0146,0.005,0.014,0.8541,0.0234
+8,Sewage Overflow,TRUE,True,True,0.8694,0.0799,0.0166,0.0045,0.0136,0.8694,0.016
+9,Phone Line Dead,FALSE,False,True,0.9931,0.0016,0.9931,0.0006,0.0009,0.0031,0.0006
+10,Road Collapse,TRUE,True,True,0.8013,0.1584,0.0118,0.0037,0.0079,0.8013,0.0169
+11,Contaminated Water,Emergency,Emergency,True,0.9705,0.9705,0.0073,0.0012,0.0024,0.0142,0.0044
+12,[Follow-up] Health Hazard Waste,Repeated,Repeated,True,0.9628,0.0172,0.0062,0.0018,0.9628,0.0091,0.003
+13,Phone Line Dead,TRUE,True,True,0.8751,0.0763,0.0218,0.0036,0.0121,0.8751,0.011
+14,Trash Accumulation,TRUE,True,True,0.8863,0.0572,0.0209,0.0038,0.0171,0.8863,0.0146
+15,!!! CRITICAL !!! - Pressure Drop,Emergency,Emergency,True,0.9638,0.9638,0.0076,0.0021,0.0035,0.0151,0.0079
+16,[Follow-up] Flooded Road,Repeated,Repeated,True,0.9828,0.0059,0.002,0.0007,0.9828,0.0061,0.0025
+17,???,Unclear,Unclear,True,0.8705,0.0438,0.0267,0.0229,0.0122,0.024,0.8705
+18,No Internet,Emergency,Emergency,True,0.9596,0.9596,0.008,0.0028,0.0061,0.0205,0.003
+19,[Follow-up] Damaged Pavement,Repeated,Repeated,True,0.986,0.0034,0.0023,0.0008,0.986,0.0042,0.0032
+20,Trash Accumulation,TRUE,True,True,0.8256,0.1034,0.0249,0.0057,0.0156,0.8256,0.0248
+21,Suspected Gas Explosion,TRUE,True,True,0.8338,0.1243,0.009,0.0029,0.0138,0.8338,0.016
+22,Request for Financial Aid,Out_of_scope,Out_of_scope,True,0.9946,0.0006,0.0008,0.9946,0.0006,0.0009,0.0025
+23,Pressure Drop,Emergency,Emergency,True,0.9683,0.9683,0.0056,0.0013,0.0049,0.0138,0.006
+24,Political Complaint,Out_of_scope,Out_of_scope,True,0.9951,0.0005,0.0006,0.9951,0.0011,0.0006,0.0021
+25,[Follow-up] Trash Accumulation,Repeated,Repeated,True,0.9801,0.0045,0.0036,0.0017,0.9801,0.0048,0.0053
+26,!!! FIRE !!! - No Internet,Emergency,True,False,0.831,0.1155,0.0165,0.0062,0.0131,0.831,0.0179
+27,Noise Complaint,Out_of_scope,Out_of_scope,True,0.9962,0.0009,0.0004,0.9962,0.0006,0.001,0.001
+28,Frequent Voltage Drops,TRUE,Emergency,False,0.5969,0.343,0.0188,0.0101,0.0114,0.5969,0.0197
+29,Political Complaint,Out_of_scope,Out_of_scope,True,0.9941,0.0007,0.0007,0.9941,0.0013,0.0006,0.0026
+30,[Follow-up] Suspected Gas Explosion,Repeated,Repeated,True,0.9851,0.0043,0.0017,0.001,0.9851,0.0049,0.003
+31,Pressure Drop,TRUE,True,True,0.7699,0.1691,0.0238,0.0084,0.0162,0.7699,0.0125
+32,Phone Line Dead,TRUE,True,True,0.7467,0.1863,0.0155,0.0045,0.0097,0.7467,0.0373

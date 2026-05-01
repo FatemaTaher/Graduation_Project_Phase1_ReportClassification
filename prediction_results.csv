@@ -1,0 +1,100 @@
+sample_no,headline,true_label,predicted_label,correct,confidence,prob_Emergency,prob_False,prob_Out_of_scope,prob_Repeated,prob_True,prob_Unclear
+1,[Follow-up] Power Outage,Repeated,Repeated,True,0.989,0.0025,0.0014,0.0008,0.989,0.0041,0.0022
+2,Road Collapse,TRUE,True,True,0.9269,0.0365,0.012,0.0029,0.0127,0.9269,0.0091
+3,Contaminated Water,TRUE,True,True,0.7535,0.1735,0.0265,0.0067,0.0133,0.7535,0.0266
+4,Cable Cut,TRUE,True,True,0.8638,0.0748,0.0204,0.0079,0.0185,0.8638,0.0145
+5,Gas Smell,TRUE,True,True,0.8481,0.1022,0.0151,0.0045,0.0137,0.8481,0.0164
+6,Valve Damage,TRUE,True,True,0.8596,0.0885,0.0151,0.0051,0.0116,0.8596,0.0201
+7,Sewage Overflow,TRUE,True,True,0.8541,0.0888,0.0146,0.005,0.014,0.8541,0.0234
+8,Sewage Overflow,TRUE,True,True,0.8694,0.0799,0.0166,0.0045,0.0136,0.8694,0.016
+9,Phone Line Dead,FALSE,False,True,0.9931,0.0016,0.9931,0.0006,0.0009,0.0031,0.0006
+10,Road Collapse,TRUE,True,True,0.8013,0.1584,0.0118,0.0037,0.0079,0.8013,0.0169
+11,Contaminated Water,Emergency,Emergency,True,0.9705,0.9705,0.0073,0.0012,0.0024,0.0142,0.0044
+12,[Follow-up] Health Hazard Waste,Repeated,Repeated,True,0.9628,0.0172,0.0062,0.0018,0.9628,0.0091,0.003
+13,Phone Line Dead,TRUE,True,True,0.8751,0.0763,0.0218,0.0036,0.0121,0.8751,0.011
+14,Trash Accumulation,TRUE,True,True,0.8863,0.0572,0.0209,0.0038,0.0171,0.8863,0.0146
+15,!!! CRITICAL !!! - Pressure Drop,Emergency,Emergency,True,0.9638,0.9638,0.0076,0.0021,0.0035,0.0151,0.0079
+16,[Follow-up] Flooded Road,Repeated,Repeated,True,0.9828,0.0059,0.002,0.0007,0.9828,0.0061,0.0025
+17,???,Unclear,Unclear,True,0.8705,0.0438,0.0267,0.0229,0.0122,0.024,0.8705
+18,No Internet,Emergency,Emergency,True,0.9596,0.9596,0.008,0.0028,0.0061,0.0205,0.003
+19,[Follow-up] Damaged Pavement,Repeated,Repeated,True,0.986,0.0034,0.0023,0.0008,0.986,0.0042,0.0032
+20,Trash Accumulation,TRUE,True,True,0.8256,0.1034,0.0249,0.0057,0.0156,0.8256,0.0248
+21,Suspected Gas Explosion,TRUE,True,True,0.8338,0.1243,0.009,0.0029,0.0138,0.8338,0.016
+22,Request for Financial Aid,Out_of_scope,Out_of_scope,True,0.9946,0.0006,0.0008,0.9946,0.0006,0.0009,0.0025
+23,Pressure Drop,Emergency,Emergency,True,0.9683,0.9683,0.0056,0.0013,0.0049,0.0138,0.006
+24,Political Complaint,Out_of_scope,Out_of_scope,True,0.9951,0.0005,0.0006,0.9951,0.0011,0.0006,0.0021
+25,[Follow-up] Trash Accumulation,Repeated,Repeated,True,0.9801,0.0045,0.0036,0.0017,0.9801,0.0048,0.0053
+26,!!! FIRE !!! - No Internet,Emergency,True,False,0.831,0.1155,0.0165,0.0062,0.0131,0.831,0.0179
+27,Noise Complaint,Out_of_scope,Out_of_scope,True,0.9962,0.0009,0.0004,0.9962,0.0006,0.001,0.001
+28,Frequent Voltage Drops,TRUE,Emergency,False,0.5969,0.343,0.0188,0.0101,0.0114,0.5969,0.0197
+29,Political Complaint,Out_of_scope,Out_of_scope,True,0.9941,0.0007,0.0007,0.9941,0.0013,0.0006,0.0026
+30,[Follow-up] Suspected Gas Explosion,Repeated,Repeated,True,0.9851,0.0043,0.0017,0.001,0.9851,0.0049,0.003
+31,Pressure Drop,TRUE,True,True,0.7699,0.1691,0.0238,0.0084,0.0162,0.7699,0.0125
+32,Phone Line Dead,TRUE,True,True,0.8947,0.0698,0.0087,0.0029,0.0058,0.8947,0.0182
+33,Medical Emergency,Out_of_scope,Out_of_scope,True,0.9971,0.001,0.0003,0.9971,0.0003,0.0008,0.0005
+34,Contaminated Water,TRUE,True,True,0.8357,0.0966,0.0203,0.0046,0.0147,0.8357,0.028
+35,???,Unclear,Unclear,True,0.9532,0.0103,0.0086,0.0034,0.0057,0.0188,0.9532
+36,Large Pothole,TRUE,True,True,0.8728,0.061,0.0195,0.0039,0.0139,0.8728,0.0289
+37,Large Pothole,TRUE,True,True,0.8756,0.0937,0.0087,0.0025,0.004,0.8756,0.0154
+38,Damaged Pavement,FALSE,False,True,0.9668,0.0094,0.9668,0.0018,0.0033,0.0152,0.0035
+39,Check this,Unclear,Unclear,True,0.9888,0.0025,0.0012,0.001,0.0008,0.0057,0.9888
+40,???,Unclear,Unclear,True,0.9555,0.0148,0.0074,0.003,0.004,0.0153,0.9555
+41,Dead Animal,TRUE,True,True,0.8452,0.0968,0.0219,0.0061,0.0123,0.8452,0.0178
+42,Electric Sparking,TRUE,True,True,0.7965,0.1002,0.0266,0.0124,0.0197,0.7965,0.0446
+43,[Follow-up] Transformer Explosion,Repeated,Repeated,True,0.9856,0.0067,0.0021,0.001,0.9856,0.0035,0.0011
+44,[Follow-up] Health Hazard Waste,Repeated,Repeated,True,0.9798,0.0067,0.0029,0.0008,0.9798,0.0077,0.0021
+45,[Follow-up] Pressure Drop,Repeated,Repeated,True,0.9859,0.0028,0.0018,0.0022,0.9859,0.0044,0.003
+46,Suspected Gas Explosion,TRUE,True,True,0.8963,0.0625,0.0206,0.0031,0.01,0.8963,0.0075
+47,Sewage Overflow,Emergency,Emergency,True,0.9299,0.9299,0.0082,0.0021,0.0133,0.0374,0.009
+48,[Follow-up] Valve Damage,Repeated,Repeated,True,0.9728,0.0083,0.0034,0.0022,0.9728,0.0089,0.0044
+49,Illegal Dumping,TRUE,True,True,0.7526,0.1592,0.032,0.008,0.0112,0.7526,0.037
+50,[Follow-up] No Water Supply,Repeated,Repeated,True,0.9864,0.0043,0.0026,0.0009,0.9864,0.0037,0.0021
+51,Dead Animal,TRUE,True,True,0.8481,0.0986,0.0223,0.0052,0.0156,0.8481,0.0102
+52,[Follow-up] Large Pothole,Repeated,Repeated,True,0.9724,0.0063,0.0043,0.0019,0.9724,0.0081,0.0071
+53,[Follow-up] Contaminated Water,Repeated,Repeated,True,0.9805,0.0064,0.0023,0.0009,0.9805,0.0078,0.0022
+54,Phone Line Dead,FALSE,False,True,0.9817,0.0051,0.9817,0.0012,0.0022,0.0073,0.0026
+55,Construction Permit Question,Out_of_scope,Out_of_scope,True,0.9904,0.0017,0.0014,0.9904,0.0011,0.0024,0.0031
+56,Damaged Pavement,TRUE,True,True,0.8822,0.055,0.0114,0.0043,0.009,0.8822,0.0382
+57,No Water Supply,FALSE,False,True,0.9888,0.0044,0.9888,0.0006,0.0015,0.0022,0.0026
+58,Construction Permit Question,Out_of_scope,Out_of_scope,True,0.9945,0.0013,0.0006,0.9945,0.0004,0.0016,0.0015
+59,Road Collapse,Emergency,Emergency,True,0.9898,0.9898,0.0009,0.0005,0.0007,0.0062,0.0018
+60,Cable Cut,TRUE,True,True,0.8961,0.0545,0.0201,0.0056,0.0164,0.8961,0.0073
+61,Water Leak,TRUE,True,True,0.8803,0.0738,0.0221,0.0035,0.0126,0.8803,0.0077
+62,Broken Street Light,TRUE,True,True,0.8468,0.1125,0.0147,0.0047,0.0137,0.8468,0.0076
+63,!!! FIRE !!! - Suspected Gas Explosion,Emergency,Emergency,True,0.5911,0.5911,0.0161,0.0053,0.0086,0.3707,0.0082
+64,Signal Loss,FALSE,False,True,0.9889,0.002,0.9889,0.0008,0.0008,0.0063,0.0011
+65,[Follow-up] Sewage Overflow,Repeated,Repeated,True,0.9888,0.0031,0.0012,0.0007,0.9888,0.0039,0.0023
+66,Noise Complaint,Out_of_scope,Out_of_scope,True,0.9929,0.0016,0.0008,0.9929,0.0011,0.0013,0.0024
+67,Sewage Overflow,TRUE,True,True,0.8529,0.0686,0.0242,0.0059,0.0155,0.8529,0.033
+68,Electric Sparking,TRUE,True,True,0.8657,0.0723,0.0273,0.0068,0.0178,0.8657,0.01
+69,[Follow-up] Sewage Overflow,Repeated,Repeated,True,0.9831,0.0055,0.002,0.0011,0.9831,0.0053,0.003
+70,Medical Emergency,Out_of_scope,Out_of_scope,True,0.9919,0.0027,0.0012,0.9919,0.001,0.0016,0.0017
+71,???,Unclear,Unclear,True,0.9843,0.0041,0.0031,0.0026,0.0018,0.004,0.9843
+72,Electric Sparking,TRUE,True,True,0.8416,0.0618,0.0239,0.0098,0.0166,0.8416,0.0462
+73,Valve Damage,Emergency,Emergency,True,0.9692,0.9692,0.009,0.0013,0.0017,0.0163,0.0024
+74,Request for Financial Aid,Out_of_scope,Out_of_scope,True,0.9947,0.0009,0.0006,0.9947,0.0004,0.0007,0.0026
+75,Broken Street Light,TRUE,True,True,0.8632,0.0894,0.0194,0.0048,0.0129,0.8632,0.0103
+76,Road Collapse,TRUE,True,True,0.9304,0.0317,0.0155,0.0035,0.0128,0.9304,0.0061
+77,Illegal Dumping,TRUE,True,True,0.8322,0.1113,0.013,0.0053,0.0141,0.8322,0.0242
+78,Phone Line Dead,TRUE,True,True,0.9003,0.0591,0.0164,0.0049,0.0101,0.9003,0.0093
+79,Damaged Pavement,TRUE,True,True,0.8466,0.1132,0.0153,0.0063,0.0073,0.8466,0.0113
+80,Pressure Drop,TRUE,True,True,0.8597,0.0768,0.0189,0.004,0.0124,0.8597,0.0282
+81,Signal Loss,FALSE,False,True,0.9473,0.0098,0.9473,0.0023,0.0076,0.0269,0.0061
+82,Damaged Pavement,TRUE,True,True,0.9101,0.0488,0.0181,0.0033,0.0109,0.9101,0.0089
+83,Transformer Explosion,FALSE,False,True,0.9679,0.0176,0.9679,0.001,0.0018,0.009,0.0027
+84,Burst Pipe,TRUE,True,True,0.7915,0.1373,0.0343,0.0069,0.0161,0.7915,0.0138
+85,[Follow-up] Illegal Dumping,Repeated,Repeated,True,0.9862,0.0029,0.0013,0.0008,0.9862,0.0062,0.0027
+86,Health Hazard Waste,TRUE,True,True,0.8596,0.0864,0.0228,0.0078,0.0165,0.8596,0.007
+87,[Follow-up] Broken Street Light,Repeated,Repeated,True,0.9649,0.007,0.0031,0.0016,0.9649,0.0198,0.0037
+88,!!! EXPLOSION !!! - No Water Supply,Emergency,Emergency,True,0.9466,0.9466,0.0055,0.0015,0.0033,0.0384,0.0047
+89,Flooded Road,TRUE,True,True,0.8916,0.0636,0.018,0.0033,0.0113,0.8916,0.0121
+90,[Follow-up] Road Collapse,Repeated,Repeated,True,0.9876,0.0023,0.0017,0.0006,0.9876,0.0064,0.0014
+91,Electric Sparking,TRUE,True,True,0.8725,0.0734,0.0201,0.0072,0.0158,0.8725,0.011
+92,Transformer Explosion,TRUE,True,True,0.8958,0.0793,0.0062,0.0027,0.0064,0.8958,0.0095
+93,[Follow-up] Gas Leak,Repeated,Repeated,True,0.982,0.0077,0.002,0.0011,0.982,0.0049,0.0023
+94,Electric Sparking,FALSE,False,True,0.9832,0.0054,0.9832,0.0011,0.0021,0.0052,0.0029
+95,Signal Loss,FALSE,False,True,0.9902,0.0054,0.9902,0.0005,0.0007,0.0015,0.0017
+96,Gas Leak,TRUE,True,True,0.8471,0.1197,0.011,0.0039,0.0083,0.8471,0.01
+97,Health Hazard Waste,Emergency,Emergency,True,0.9512,0.9512,0.005,0.0014,0.007,0.0319,0.0035
+98,[Follow-up] Broken Street Light,Repeated,Repeated,True,0.9906,0.0031,0.0011,0.0005,0.9906,0.0041,0.0006
+99,[Follow-up] Broken Street Light,Repeated,Repeated,True,0.9778,0.0051,0.0039,0.0013,0.9778,0.0109,0.0009
